@@ -1,0 +1,17 @@
+
+
+selector   +   declaraion block
+
+h1             {  color   :    blue}
+                property  :    property value
+
+
+
+element selector
+p
+h1
+table
+form
+
+id selector
+#welcome
