@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2%;
+   ;
+    
+    
+    
+  }
+  table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 1%;
+  
+  }
+  label {
+    display: block;
+    margin-top: 1%;
+    border: 20px;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 2px solid #0c0b0b;
+    padding: 5px;
+    text-align: left;
+  
+  }
+  th {
+    background-color: rgb(241, 234, 231);
+  }
+  a {
+    cursor: pointer;
+    color: blue;
+    margin-right: px;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 19px;
+  
+  }
+  input, textarea {
+    width: 25%;
+    padding: 5px;
+    margin-top: 6px;
+  }
+    button {
+      margin: 1%;
+      margin-right: 27%;
+      border-radius: 5px;
+      cursor: pointer;
+      background-color: gold;
+      padding: 8px;
+      font-size: 17px;
+      
+      
+  }
+  
+  header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gold;
+    padding: 10px;
+    background-position: 21px;
+    margin: -2%;
+    margin-bottom: 2%;
+   
+    
+  }
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -2%;
+   
+  }
+  footer {
+   
+    background-color: gold;
+    position: fixed;
+    bottom: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+ 
+  }
+  button:hover{
+    background-color: gold;
+  }
+  img {
+    margin-top: auto;
+  }
+  a:hover {
+    background-color: #f0f0f0;;
+  }
+
+  
+  
+  
+  
+ 
+
